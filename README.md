@@ -7,4 +7,4 @@
  
  link : https://www.kaggle.com/c/home-credit-default-risk
  
- If you want to look summary or feature description for this competition, go to document folder and download excel and ppt file!
+ If you want to look summary or feature description for this competition, go to document folder and download `home_credit_default_risk.pptx`!
